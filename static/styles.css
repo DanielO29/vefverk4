@@ -1,0 +1,48 @@
+body {
+	margin: auto;
+	max-width: 75em;
+}
+
+
+.row {
+	display: flex;
+	flex-direction: row;
+	border: 3px red solid;
+}
+
+.row2 {
+	display: flex;
+	flex-direction: row;
+
+}
+
+img {
+	width: 75%;
+	height: 75%;
+	padding-left: 20px;
+}
+
+header {
+	padding-left: 43%;
+}
+
+h1 {
+	padding-left: 20px; 
+}
+
+.top2em {
+	padding-right: 100px;
+}
+
+.top3em {
+	float: right;
+}
+
+li {
+	padding: 10px;
+}
+
+footer {
+	color: red;
+	padding-left: 50px;
+}
